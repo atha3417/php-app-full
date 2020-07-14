@@ -1,0 +1,24 @@
+{
+	"name": "atha/php-app-full",
+    "description": "Just a simple rest-server",
+    "keywords": ["php", "framework", "codeigniter", "laravel"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ],
+    "require": {
+        "atha/chat-app": "^1.0",
+        "atha/covid19-app": "^1.1",
+        "atha/hospital-app": "^1.0",
+        "atha/pos-app": "^1.0",
+        "atha/point-of-sale": "^1.0",
+        "atha/login-system": "^1.1",
+        "atha/markdown": "^1.1",
+        "atha/cli-bot": "^1.0",
+        "atha/facebook-sdk": "^1.1"
+    }
+}
